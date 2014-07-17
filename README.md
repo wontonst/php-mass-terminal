@@ -12,4 +12,8 @@ Run
 php run.php whatever.sh
 </pre>
 
-The script will run whatever.sh on all devices in server and output stdout to working directory filename [username@ip].[unixtimestamp]
+The script will run whatever.sh on all devices in server and output stdout to working directory filename 
+
+<pre>
+[username@ip].[unixtimestamp]
+</pre>
